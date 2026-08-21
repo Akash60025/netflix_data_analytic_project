@@ -131,10 +131,3 @@ This project demonstrates how Data Analytics can be used to uncover valuable ins
 
 Aspiring Data Analyst | Data Science Enthusiast
 
-### Connect With Me
-
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
-* Email: [your-email@example.com](mailto:your-email@example.com)
-
-⭐ If you found this project useful, consider giving it a star!
